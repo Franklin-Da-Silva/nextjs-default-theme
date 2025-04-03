@@ -104,7 +104,7 @@ export default function Contact() {
               <Input placeholder="e.g. 10-50" />
             </div>
             <div className="space-y-2">
-              <Label>Your message</Label>
+              <Label>Your mesfdsage</Label>
               <Textarea
                 placeholder="Write your message"
                 className="min-h-[120px] resize-none"
